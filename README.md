@@ -47,6 +47,6 @@ Each section is written to be **self-contained**—no prior background in quantu
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Basics_of_Quantum_Information.git
+git clone https://github.com/sherurox/Basics_of_Quantum_Information.git
 cd Basics_of_Quantum_Information
 
