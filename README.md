@@ -1,7 +1,13 @@
 Welcome to Basics of Quantum Information, first notes in the Understanding Quantum Information and Computation series comprising the following courses:
 
 ### Basics of quantum information
+
+This covers classical and quantum information of a qubit in a single system
+
 ### Fundamentals of quantum algorithms
+
+This covers classical and quantum information of a qubit in a multiple system
+
 ### General formulation of quantum information
 ### Foundations of quantum error correction
 
